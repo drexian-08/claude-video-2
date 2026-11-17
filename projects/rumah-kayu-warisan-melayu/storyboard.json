@@ -1,0 +1,84 @@
+{
+  "title": "Rumah Kayu Warisan Melayu",
+  "format": "16:9",
+  "seconds": 75,
+  "shots": [
+    {
+      "time": "0.0-5.0",
+      "graphic": "Cinematic dawn over a traditional Malay riverside village. A timber house on stilts emerges from mist; title draws on like a technical blueprint.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "5.0-11.0",
+      "graphic": "Exploded isometric view of timber logs and boards. Labels identify selecting, seasoning and preparing timber; show hand tools and careful measuring.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "11.0-18.0",
+      "graphic": "Foundation layout appears. Timber posts rise from prepared supports; dimensions and plumb lines animate into place.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "18.0-25.0",
+      "graphic": "Main beams and crossbeams slide into joinery. Floor joists lock across the frame; camera rotates slightly to reveal the structure.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "25.0-32.0",
+      "graphic": "Floorboards, wall panels, windows and stairs assemble in sequence. Show ventilation gap beneath the elevated floor.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "32.0-39.0",
+      "graphic": "Roof trusses and pitched roof assemble overhead; timber house completes in a wide isometric view.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "39.0-47.0",
+      "graphic": "Cutaway cross-section as heavy rain falls and river level rises. Blue water moves below the raised floor; label explains the elevated floor reduces ordinary flood exposure, depending on flood depth and site.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "47.0-54.0",
+      "graphic": "Technical comparison: ordinary raised-on-posts design versus a conceptual staged house-raising adaptation. A clear caption says this is not an automatic feature of every old house.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "54.0-64.0",
+      "graphic": "Safety-focused sequence: trained crew checks structure, places rated jacks at engineered lifting points, raises the supported frame in small even stages, inserts stable cribbing, checks level, repeats. No person is ever beneath an unsupported structure.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "64.0-71.0",
+      "graphic": "Waterline rises in a cutaway while the house remains supported at its new level; show stable temporary supports and a warning that real lifting needs engineers and specialists.",
+      "asset": {
+        "kind": "code"
+      }
+    },
+    {
+      "time": "71.0-75.0",
+      "graphic": "Return to the complete village at golden hour. Closing title: “Ilmu binaan lama, warisan sepanjang zaman.”",
+      "asset": {
+        "kind": "code"
+      }
+    }
+  ]
+}
